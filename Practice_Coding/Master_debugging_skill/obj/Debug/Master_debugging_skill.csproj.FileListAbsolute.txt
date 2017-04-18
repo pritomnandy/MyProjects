@@ -1,0 +1,6 @@
+D:\Practice_Coding\Master_debugging_skill\bin\Debug\Master_debugging_skill.exe.config
+D:\Practice_Coding\Master_debugging_skill\bin\Debug\Master_debugging_skill.exe
+D:\Practice_Coding\Master_debugging_skill\bin\Debug\Master_debugging_skill.pdb
+D:\Practice_Coding\Master_debugging_skill\obj\Debug\Master_debugging_skill.csprojResolveAssemblyReference.cache
+D:\Practice_Coding\Master_debugging_skill\obj\Debug\Master_debugging_skill.exe
+D:\Practice_Coding\Master_debugging_skill\obj\Debug\Master_debugging_skill.pdb
